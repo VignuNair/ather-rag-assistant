@@ -1,6 +1,5 @@
 .env
 .venv/
-data/store/
 __pycache__/
 .DS_Store
 audio/
