@@ -1,2 +1,7 @@
 question,expected_answer,source_doc,source_page
-What type of company is Ather Energy?,Ather Energy is a pure-play EV company specialising in electric two-wheelers and the associated product ecosystem.,10_Ather_Energy_Annual_Report_FY_2024_25,16
+What type of company is Ather Energy?,Ather Energy is a pure-play EV company specialising in electric two-wheelers and the associated product ecosystem.,10_Ather_Energy_Annual_Report_FY_2024_25,16 
+Where is the VIN located on the Ather 450S?,The VIN is engraved on the chassis under the rubber grommet beneath the seat.,01_Ather_450S_User_Guide,16
+Where can the Ather app be downloaded from?,The Ather app can be downloaded from the Google Play Store or Apple App Store.,01_Ather_450S_User_Guide,18
+What is the forward speed of Park Assist?,The forward speed of Park Assist is 5 km/h.,01_Ather_450S_User_Guide,22
+What is the reverse speed of Park Assist?,The reverse speed of Park Assist is 3 km/h.,01_Ather_450S_User_Guide,22
+What happens if the kill switch is engaged?,If the kill switch is engaged the motor will not switch on.,01_Ather_450S_User_Guide,29

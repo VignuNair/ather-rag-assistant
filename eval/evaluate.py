@@ -16,8 +16,7 @@ def evaluate(path="eval/queries.csv", keep=8):
             for c in got
         }
 
-        want = (row["source_doc"], row["source_page"])
-
+        want = (row["source_doc"].strip(), row["source_page"].strip())
         if want in pages:
             hits += 1
         else:
